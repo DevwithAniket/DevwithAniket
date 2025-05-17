@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devwithaniket&show_icons=true&locale=en&layout=compact" alt="devwithaniket" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devwithaniket&show_icons=true&locale=en" alt="devwithaniket" /></p>
+
 
 
