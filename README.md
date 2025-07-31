@@ -26,7 +26,7 @@ to bloom.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,aws,bash,c,cpp,codepen,django,docker,firebase,flask,github,html,java,js,mongodb,mysql,opencv,postgres,pycharm,py,pytorch,react,sklearn,tensorflow,vercel,css,vscode,sqlite,powershell" />
+    <img src="https://skillicons.dev/icons?i=arduino" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devwithaniket&show_icons=true&locale=en&layout=compact" alt="devwithaniket" /></p>
