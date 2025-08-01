@@ -21,12 +21,13 @@ to bloom.
 <p align="left">
 <a href="https://fb.com/aniket chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aniket chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/stfu_anikett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stfu_anikett" height="30" width="40" /></a>
+  <a href="https://instagram.com/stfu_anikett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="stfu_anikett" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,html,css,js,appwrite,firebase,mongodb,express,react,nodejs,nextjs,materialui,tailwind,bootstrap,git,github,ps,ai,vite,vscode,vercel,powershell" />
+    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,html,css,js,appwrite,firebase,mongodb,express,react,nodejs,nextjs,npm,materialui,tailwind,bootstrap,git,github,ps,ai,figma,vite,vscode,gcp,matlab,vercel,powershell" />
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devwithaniket&show_icons=true&locale=en&layout=compact" alt="devwithaniket" /></p>
