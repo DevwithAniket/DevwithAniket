@@ -21,7 +21,7 @@ to bloom.
 <p align="left">
 <a href="https://fb.com/aniket chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aniket chakraborty" height="30" width="40" /></a>
 <a href="https://instagram.com/stfu_anikett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stfu_anikett" height="30" width="40" /></a>
-  <a href="https://instagram.com/stfu_anikett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="stfu_anikett" height="30" width="40" /></a>
+  <a href="https://instagram.com/stfu_anikett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stfu_anikett" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
