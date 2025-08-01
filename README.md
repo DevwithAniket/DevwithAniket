@@ -5,7 +5,7 @@
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=67F721&width=435&lines=Web+Developer;Data+Structures+%26+Algorithm;Problem+Solver;Graphic+Designer;UI%2FUX+Designer(https://git.io/typing-svg)"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=67F721&width=435&lines=Web+Developer;Data+Structures+%26+Algorithm;Problem+Solver;Graphic+Designer;UI%2FUX+Designer(https://git.io/typing-svg)"
     alt="Typing SVG"
   />
 </div>
